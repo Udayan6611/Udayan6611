@@ -1,12 +1,17 @@
-# 💫 Hi 👋, I'm Udayan Dusane
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Udayan Dusane</a> - aka RudraSlayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+# 
 **Data Science • Machine Learning • Data Analysis | LLMs • RAG • LangChain • AI Agents | Python • SQL | Cloud (GCP • AWS) • Docker • Kubernetes | Learning by Building**
 
 Email Me 👉 ✉️ **udayandusane9604@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** ML Projects
+- 🔭 **I’m currently working on:** Personal ML Projects
 - 🌱 **I’m currently learning:** RAG & Langchain
+- :heart: **My favorite language:** Python
 - 👯 **I’m looking to collaborate on:** Any ML or Data Science Project
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Anything from Collaboration toTech Support,  I am happy to help.
 - 📫 **How to reach me:** udayandusane9604@gmail.com / udayandusane6611@gmail.com
 - 😄 **Pronouns:** Udayan
 - ⚡ **Fun fact:** I blend tech and leadership — building impactful AI/ML projects while leading 50+ peers as President of Young Inspirators Network, DYPCOEI.
@@ -32,7 +37,7 @@ Email Me 👉 ✉️ **udayandusane9604@gmail.com** For Collaboration/Project or
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Udayan6611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🤝🏻 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dA6sw8Xg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-dusane-447612291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Udayan9604) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udayandusane9604@gmail.com) 
 
 ### ✍️ Random Dev Quote
