@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **udayandusane9604@gmail.com** For Collaboration/Project or
 - 🌱 **I’m currently learning:** RAG & Langchain
 - :heart: **My favorite language:** Python
 - 👯 **I’m looking to collaborate on:** Any ML or Data Science Project
-- 💬 **Ask me about:** Anything from Collaboration toTech Support,  I am happy to help
+- 💬 **Ask me about:** Anything from Collaboration to Tech Support,  I am happy to help.
 - 📫 **How to reach me:** udayandusane9604@gmail.com / udayandusane6611@gmail.com
 - 😄 **Pronouns:** Udayan
 - ⚡ **Fun fact:** I blend tech and leadership — building impactful AI/ML projects while leading 50+ peers as President of Young Inspirators Network, DYPCOEI.
