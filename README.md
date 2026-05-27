@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **udayandusane9604@gmail.com** For Collaboration/Project or
 - ⚡ **Fun fact:** I blend tech and leadership — building impactful AI/ML projects while leading 50+ peers as President of Young Inspirators Network, DYPCOEI.
 
 ## 🔗 I am a Data Science & ML Enthusiast. 😊😊
-### If you are impressed with my work, you can Buy Me A Coffee :- 
+### If you are impressed with my work, you can Buy me A Coffee :- 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Udayan9604) 
 
 # 💻 Tech Stack:
